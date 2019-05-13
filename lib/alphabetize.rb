@@ -8,4 +8,5 @@ def alphabetize(arr)
       ESPERANTO_ALPHABET.index(character)
     end
   end
+  
 end
